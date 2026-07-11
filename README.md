@@ -29,3 +29,11 @@ manager, the browser sandbox.
   parallel research tasks
 - **Persistent memory**: SQLite-backed cross-session recall of project conventions,
   user preferences, and key decisions
+
+---
+
+**✅ MVP ready** — core loop is stable, tool-calling works end-to-end, and the agent can
+autonomously complete real-world coding and browser automation tasks.
+
+Built for [@deepseek-ai](https://github.com/deepseek-ai) — designed to showcase
+what DeepSeek models can do when given a real, sovereign IDE environment.
