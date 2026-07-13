@@ -37,3 +37,4 @@ autonomously complete real-world coding and browser automation tasks.
 
 Built for [@deepseek-ai](https://github.com/deepseek-ai) — designed to showcase
 what DeepSeek models can do when given a real, sovereign IDE environment.
+[capture_20260713121808048.bmp](https://github.com/user-attachments/files/29952223/capture_20260713121808048.bmp)
