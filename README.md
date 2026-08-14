@@ -47,7 +47,7 @@ Two commands. That's it.
 ### 1. Agent-native. Not assistant-glued-on.
 
 Copilot autocompletes. H **owns the task loop.**  
-It plans, delegates, remembers across sessions (SQLite), catches its own mistakes, and fixes them — without you driving every keystroke.
+It plans, delegates, remembers across sessions, catches its own mistakes, and fixes them — without you driving every keystroke.
 
 ### 2. Eleven specialist sub-agents. The right brain for every job.
 
@@ -82,7 +82,7 @@ That's not an optimization — it's a **different process model,** designed for 
 | **Browser** | `navigate` `screenshot` `get_dom` `click` `type` `clear` `select` `scroll` `press_key` `wait` `move_mouse` `right_click` `upload_file` `console` `request_errors` |
 | **Diagnostics** | `read_problems` (LSP) `read_graph` (knowledge graph) |
 | **Control** | `write_todos` `write_summary` `task_complete` `delegate_task` |
-| **Memory** | `remember` `recall` `forget` — cross-session, SQLite-backed |
+| **Memory** | `remember` `recall` `forget` — cross-session |
 
 ### 5. Actually open source. AGPL-3.0.
 
